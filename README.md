@@ -3,6 +3,7 @@
 # Created this project to practice utilizing sensors
 
 # Arduino Code
+# Materials List:
 # 1x Arduino Uno
 # 1x LM35 Temperature Sensor
 # 2x LED (of different color)
