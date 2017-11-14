@@ -6,8 +6,12 @@ This temperature monitor checks whether the temperature in the environment the s
 
  Arduino Code
 # Materials List:
- 1x Arduino Uno\n
+ 1x Arduino Uno
+ <br />
  1x LM35 Temperature Sensor
+ <br />
  2x LED (of different color)
+ <br />
  2x 330 Ohm resistor
+ <br />
  7x Jumper Wires
