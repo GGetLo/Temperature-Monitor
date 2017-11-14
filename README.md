@@ -4,7 +4,7 @@ Created this project to practice utilizing sensors
 
 This temperature monitor checks whether the temperature in the environment the sensor is in exceeds a certain value.
 
- Arduino Code
+ Coded in the Arduino language.
 # Materials List:
  1x Arduino Uno
  <br />
